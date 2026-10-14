@@ -1,0 +1,9 @@
+# Local LinkedIn/admin inspection tooling
+inspect-linkedin*.mjs
+li_*.mjs
+find_srf_*.mjs
+capture-preview.mjs
+mobile-check.mjs
+*-brand-preview.png
+site-preview.png
+li_*target*.txt
